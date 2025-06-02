@@ -1,3 +1,17 @@
+/*
+Programa: Parsing de arquivo CSV em C++
+
+Autor:  Arthur Oliveira
+Data: 02/06/2025
+
+Descrição:
+    Programa que abre um arquivo texto modelo CSV para leitura,
+    interpreta seu conteúdo linha a linha, separando os campos por vírgulas,
+    e exibe cada campo no console.
+
+License: CC BY
+*/
+
 #include <iostream>     // Para std::cout e std::cerr
 #include <fstream>      // Para std::ifstream
 #include <sstream>      // Para std::stringstream (separar string em tokens)

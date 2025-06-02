@@ -1,0 +1,10 @@
+documentos:
+  - id: 1
+    titulo: "Introdução ao Python"
+    texto: "Python é uma linguagem de programação simples e poderosa."
+    categorias: ["programação", "python"]
+
+  - id: 2
+    titulo: "Redes Neurais"
+    texto: "Redes neurais são modelos computacionais inspirados no cérebro humano."
+    categorias: ["inteligência artificial", "machine learning"]

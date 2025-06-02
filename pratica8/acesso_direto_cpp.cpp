@@ -1,3 +1,17 @@
+/*
+Programa: Leitura e escrita em arquivo binário com posicionamento
+
+Autor: Arthur Oliveira 
+Data: 02/06/2025
+
+Descrição:
+    Programa que abre um arquivo binário para leitura e escrita,
+    escreve um caractere na posição especificada,
+    depois lê um bloco de dados a partir dessa posição e exibe no console.
+
+License: CC BY
+*/
+
 #include <iostream>   // Para std::cout e std::cerr
 #include <fstream>    // Para manipulação de arquivos (std::fstream)
 

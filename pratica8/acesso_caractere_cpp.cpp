@@ -1,3 +1,17 @@
+/*
+Programa: Leitura de arquivo texto caractere a caractere
+
+Autor: Arthur Oliveira 
+Data: 02/06/2025
+
+Descrição:
+    Programa que abre um arquivo texto para leitura,
+    lê seu conteúdo caractere por caractere,
+    e exibe cada caractere no console em linhas separadas.
+
+License: CC BY
+*/
+
 #include <iostream>   // Para std::cout e std::cerr
 #include <fstream>    // Para std::ifstream (leitura de arquivos)
 
